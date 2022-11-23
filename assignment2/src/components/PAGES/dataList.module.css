@@ -1,0 +1,45 @@
+.form-control {
+    margin: 1 rem;
+    font-weight: bold;
+    margin-bottom: 2 rem;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #edeeec;
+  }
+  
+  .form-control td{
+    padding: 0.5rem 0.5rem;
+  
+   
+    
+  }
+
+  .form-control:hover {
+    background: #7a8179;
+    color:aliceblue;
+    border-color: #0b0b0bd7;
+  }
+  
+  .form-control.invalid  {
+   
+    color:aliceblue;
+    background: #424143;
+  }
+
+  .button{
+    
+    
+    background-color:#4e4e52;
+    color: #fff;
+    border: none;
+    margin: 5px;
+    border-radius:10px; 
+    padding:10px;
+    min-width: 80px;
+  }
+  
+  .button:hover{
+    background-color: black;
+    font-weight: bold;
+  }
+  
